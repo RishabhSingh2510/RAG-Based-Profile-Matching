@@ -1,0 +1,23 @@
+Elena Rostova - Natural Language Processing (NLP) Specialist
+==================================================
+Contact: elena.rostova@nlptech.org | (555) 047-1122 | Seattle, WA
+
+SUMMARY:
+NLP Specialist with 5 years experience developing Named Entity Recognition (NER), text classification, semantic search, and topic modeling using SpaCy, HuggingFace Transformers, and Python.
+
+TECHNICAL SKILLS:
+- NLP Frameworks: SpaCy, HuggingFace Transformers, NLTK, Gensim, Stanza
+- ML & Models: BERT, RoBERTa, T5, Scikit-learn, PyTorch, FastText
+- Search & Data: ElasticSearch, BM25, Python, SQL, Pandas
+
+WORK EXPERIENCE:
+Senior NLP Engineer | TextAnalytics Corp (2021 - Present)
+- Fine-tuned RoBERTa models for multi-label text classification across 5M+ news articles with 92% accuracy.
+- Built custom SpaCy NER pipelines extracting entity relations from financial documents.
+
+NLP Analyst | DataStream Inc (2019 - 2021)
+- Developed sentiment analysis algorithms for social media data feeds.
+
+EDUCATION:
+M.S. in Computational Linguistics - University of Washington
+B.S. in Computer Science - Western Washington University

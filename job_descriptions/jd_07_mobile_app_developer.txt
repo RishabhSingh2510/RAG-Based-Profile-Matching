@@ -1,0 +1,24 @@
+Title: Lead Cross-Platform Mobile App Engineer
+Location: Los Angeles, CA (Remote)
+Experience: 3+ years of experience
+
+Job Summary:
+Looking for a Mobile App Developer to build sleek, high-performing mobile applications for iOS and Android devices.
+
+Required Skills:
+- Flutter
+- React Native
+- Swift
+- Kotlin
+- Firebase
+
+Preferred Skills:
+- Fastlane
+- Supabase
+- GraphQL
+- SQLite
+
+Key Responsibilities:
+- Architect cross-platform mobile apps using Flutter and React Native connecting to Firebase backends.
+- Write native Swift (iOS) and Kotlin (Android) modules when deep hardware integration is required.
+- Set up automated mobile app build and release pipelines using Fastlane.

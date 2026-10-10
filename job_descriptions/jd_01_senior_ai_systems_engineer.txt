@@ -1,0 +1,25 @@
+Title: Senior AI & LLM Systems Engineer
+Location: San Francisco, CA (Hybrid)
+Experience: 5+ years of experience
+
+Job Summary:
+We are seeking a Senior AI Systems Engineer to build production-grade Retrieval-Augmented Generation (RAG) pipelines, autonomous LLM agents, and high-throughput vector search services.
+
+Required Skills:
+- Python
+- FastAPI
+- LangChain
+- Pinecone
+- PyTorch
+- Docker
+
+Preferred Skills:
+- Kubernetes
+- ChromaDB
+- LlamaIndex
+- AWS
+
+Key Responsibilities:
+- Design section-aware chunking and hybrid retrieval architectures using Pinecone and dense vector embeddings.
+- Build resilient microservices with Python and FastAPI handling high query traffic under low latency constraints.
+- Collaborate with MLOps team to deploy and monitor LLM agent tools in production.

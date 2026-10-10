@@ -1,0 +1,19 @@
+Recommendation for Senior Python Developer Role
+
+After reviewing all available resumes, John Doe is the top candidate for the Senior Python Developer position.
+
+Candidate Analysis:
+1. John Doe (Top Candidate):
+   - Experience: 7+ years of experience specifically in Python backend development and AI engineering.
+   - Relevance: Extensive experience with high-performance microservices, FastAPI, and LLM pipelines. Proven track record of optimizing Python performance (35% latency reduction).
+   - Skills: Strong alignment with the role (Python, FastAPI, Docker, Kubernetes, PostgreSQL).
+
+2. Other Candidates:
+   - Alice Johnson: Strong Data Scientist, but her focus is on data science/ML modeling rather than core Python backend engineering.
+   - Bob Williams: Strong DevOps/Cloud background, but Python is listed as a secondary scripting language.
+   - Charlie Brown: Cybersecurity specialist; Python is used for scripting/security tasks, not core application development.
+   - Diana Prince: Principal Engineer with strong distributed systems experience, but her primary stack is Java/Go, not Python.
+   - Jane Smith: Strong Full Stack Developer, but her focus is on JavaScript/TypeScript/Node.js.
+
+Conclusion:
+John Doe is the only candidate with a deep, dedicated background in high-performance Python backend development, making him the ideal fit for the Senior Python Developer role.

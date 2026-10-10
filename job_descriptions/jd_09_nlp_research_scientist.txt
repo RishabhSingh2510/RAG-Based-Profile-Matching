@@ -1,0 +1,25 @@
+Title: Senior NLP Research Scientist
+Location: Boston, MA (Hybrid)
+Experience: 4+ years of experience
+
+Job Summary:
+Looking for an NLP Research Scientist to fine-tune transformer models, design custom Named Entity Recognition (NER) systems, and optimize text embeddings.
+
+Required Skills:
+- PyTorch
+- Hugging Face
+- Transformers
+- BERT
+- NLP
+- Python
+
+Preferred Skills:
+- SpaCy
+- CUDA
+- FastText
+- NLTK
+
+Key Responsibilities:
+- Train and fine-tune state-of-the-art transformer models (BERT, LLaMA) for domain-specific NLP tasks.
+- Build custom tokenization, entity extraction, and sentiment analysis pipelines.
+- Publish research findings and benchmark model accuracy across evaluation datasets.

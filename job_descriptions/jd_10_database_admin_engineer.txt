@@ -1,0 +1,24 @@
+Title: Senior Database Administrator & Storage Engineer
+Location: Dallas, TX (Onsite)
+Experience: 6+ years of experience
+
+Job Summary:
+Seeking a Senior DBA to manage enterprise database infrastructure, tune high-throughput SQL queries, and implement failover replication.
+
+Required Skills:
+- PostgreSQL
+- MongoDB
+- Redis
+- Query Performance Tuning
+- Replication
+
+Preferred Skills:
+- Apache Cassandra
+- Python
+- Bash
+- Ansible
+
+Key Responsibilities:
+- Administer production-grade PostgreSQL, MongoDB, and Redis clusters under heavy transaction loads.
+- Diagnose and eliminate slow query execution plans through index optimization and parameter tuning.
+- Design automated backup, point-in-time recovery (PITR), and active-passive streaming replication.

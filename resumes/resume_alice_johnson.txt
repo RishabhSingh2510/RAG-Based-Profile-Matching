@@ -1,0 +1,23 @@
+Alice Johnson - Senior Data Scientist
+==================================================
+Contact: alice.johnson@datascience.net | (555) 012-3456 | Boston, MA
+
+PROFESSIONAL SUMMARY:
+Data Scientist with 5 years experience applying Machine Learning, Natural Language Processing (NLP), and Statistical Analytics using Python, Pandas, PyTorch, and SQL.
+
+TECHNICAL SKILLS:
+- Core Languages: Python, R, SQL, Julia
+- Machine Learning & NLP: Scikit-Learn, XGBoost, PyTorch, HuggingFace Transformers, SpaCy
+- Big Data & Warehousing: Pandas, NumPy, Apache Spark, Snowflake, Airflow
+
+WORK EXPERIENCE:
+Senior Data Scientist | Analytics Global (2021 - Present)
+- Developed customer churn prediction models in Python resulting in a 15% improvement in retention.
+- Fine-tuned transformer models (BERT) for sentiment analysis across customer review feeds.
+
+Data Analyst | Insight Tech (2019 - 2021)
+- Built interactive Tableau dashboards and optimized SQL analytical queries for business intelligence.
+
+EDUCATION:
+M.S. in Statistics - UC Berkeley
+B.S. in Mathematics - MIT

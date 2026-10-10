@@ -1,0 +1,21 @@
+Yusuf Pathan - Mid-Level Data Analyst & BI Developer
+==================================================
+Contact: yusuf.pathan@analytics.dev | (555) 059-4455 | Chicago, IL
+
+SUMMARY:
+Data Analyst with 3 years experience conducting business data analytics, building Tableau & PowerBI dashboards, writing SQL queries, and processing data in Python with Pandas.
+
+TECHNICAL SKILLS:
+- Analytics & Dashboards: Tableau, PowerBI, Excel (VBA, Pivot Tables), Google Looker Studio
+- Data & Languages: SQL, Python, Pandas, NumPy, PostgreSQL, MySQL
+
+WORK EXPERIENCE:
+Data Analyst | Retail BI Systems (2022 - Present)
+- Created executive Tableau dashboards tracking daily sales KPIs across 200+ retail stores.
+- Automated weekly data extraction and report generation using Python and SQL.
+
+Junior Business Analyst | Insights Group (2021 - 2022)
+- Analyzed customer transaction datasets to identify purchasing trends.
+
+EDUCATION:
+B.S. in Business Analytics - DePaul University

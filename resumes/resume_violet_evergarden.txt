@@ -1,0 +1,21 @@
+Violet Evergarden - QA Automation & Test Infrastructure Lead
+==================================================
+Contact: violet.evergarden@qatech.io | (555) 056-1122 | Austin, TX
+
+SUMMARY:
+QA Automation Lead with 5 years experience designing end-to-end automated testing frameworks using Python, PyTest, Selenium, Playwright, Cypress, and CI/CD pipelines.
+
+TECHNICAL SKILLS:
+- Automation Frameworks: PyTest, Selenium WebDriver, Playwright, Cypress, Postman, JMeter
+- Programming & DevOps: Python, JavaScript, SQL, Git, Jenkins, GitHub Actions, Docker
+
+WORK EXPERIENCE:
+QA Automation Lead | TestCore Solutions (2021 - Present)
+- Designed Python PyTest automation framework running 500+ parallel E2E tests in GitHub Actions.
+- Increased test coverage from 40% to 92%, detecting critical regression bugs before release.
+
+QA Engineer | WebSoft Systems (2019 - 2021)
+- Automated REST API contract tests using Postman and Python requests.
+
+EDUCATION:
+B.S. in Software Engineering - UT Austin

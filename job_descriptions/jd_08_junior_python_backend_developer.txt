@@ -1,0 +1,24 @@
+Title: Junior/Mid-level Python Backend Developer
+Location: Denver, CO (Hybrid)
+Experience: 1+ years of experience
+
+Job Summary:
+Seeking a motivated Python Backend Developer to construct clean, well-tested REST APIs and backend web services.
+
+Required Skills:
+- Python
+- FastAPI
+- Django
+- REST APIs
+- PostgreSQL
+
+Preferred Skills:
+- Docker
+- PyTest
+- SQLite
+- Git
+
+Key Responsibilities:
+- Implement scalable REST API endpoints using Python, FastAPI, and Django.
+- Manage relational database migrations and write efficient PostgreSQL queries.
+- Write unit and integration tests using PyTest to ensure application stability.

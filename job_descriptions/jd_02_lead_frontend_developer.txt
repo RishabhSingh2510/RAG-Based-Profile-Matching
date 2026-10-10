@@ -1,0 +1,23 @@
+Title: Lead Frontend Web Developer
+Location: Seattle, WA (Remote)
+Experience: 4+ years of experience
+
+Job Summary:
+Looking for a Lead Frontend Engineer to architect next-generation user interfaces for enterprise cloud dashboards using modern web frameworks.
+
+Required Skills:
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+
+Preferred Skills:
+- Vue.js
+- GraphQL
+- Node.js
+- Figma
+
+Key Responsibilities:
+- Lead the architecture of React and Next.js single-page applications with server-side rendering (SSR).
+- Optimize bundle size and web vitals performance across desktop and mobile devices.
+- Collaborate with designers to translate Figma mockups into accessible HTML5/CSS3 components.

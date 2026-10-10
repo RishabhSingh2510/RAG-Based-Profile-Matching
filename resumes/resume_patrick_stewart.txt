@@ -1,0 +1,22 @@
+Patrick Stewart - Senior Database Administrator & Storage Engineer
+==================================================
+Contact: patrick.stewart@dbadmin.io | (555) 050-4455 | Dallas, TX
+
+SUMMARY:
+Senior Database Administrator with 8 years experience managing high-availability database clusters in PostgreSQL, MongoDB, Redis, and MySQL with expert query performance tuning and replication.
+
+TECHNICAL SKILLS:
+- Databases: PostgreSQL, MongoDB, Redis, MySQL, Apache Cassandra
+- DB Administration: Backup/Recovery, Replication, Failover, Sharding, Query Performance Tuning, Index Optimization
+- Scripting & Infrastructure: Python, Bash, Docker, Ansible, Linux Kernel Tuning
+
+WORK EXPERIENCE:
+Lead DBA | DataFortress Systems (2020 - Present)
+- Managed 50+ production PostgreSQL and MongoDB clusters handling 100M+ queries daily with 99.99% availability.
+- Reduced slow query latency by 65% through index optimization and vacuum configuration in PostgreSQL.
+
+Database Administrator | FinanceCore Corp (2016 - 2020)
+- Configured automated multi-region streaming replication and backup strategies.
+
+EDUCATION:
+B.S. in Information Systems - UT Dallas

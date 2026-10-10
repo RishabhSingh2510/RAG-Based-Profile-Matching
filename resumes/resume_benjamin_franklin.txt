@@ -1,0 +1,23 @@
+Benjamin Franklin - Quantum Computing Researcher
+==================================================
+Contact: benjamin.franklin@quantumtech.io | (555) 044-7799 | Princeton, NJ
+
+SUMMARY:
+Quantum Computing Software Researcher with 4 years experience implementing quantum algorithms, variational quantum eigensolvers (VQE), and quantum circuits using Qiskit, Cirq, and Python.
+
+TECHNICAL SKILLS:
+- Quantum Frameworks: Qiskit, Google Cirq, Pennylane, PyQuil
+- Mathematical & AI Foundations: Quantum Linear Algebra, VQE, QAOA, PyTorch, NumPy, SciPy
+- Languages: Python, C++, LaTeX
+
+WORK EXPERIENCE:
+Quantum Software Researcher | Quantum Dynamics Inc (2022 - Present)
+- Developed noise-mitigated quantum circuits in Qiskit evaluated on IBM Quantum hardware.
+- Implemented hybrid quantum-classical neural network models using Pennylane and PyTorch.
+
+Physics Research Assistant | Princeton Physics Lab (2020 - 2022)
+- Simulated quantum error correction codes in Python.
+
+EDUCATION:
+Ph.D. Candidate in Physics (Quantum Information) - Princeton University
+B.S. in Physics - Yale University

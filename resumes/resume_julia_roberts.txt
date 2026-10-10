@@ -1,0 +1,22 @@
+Julia Roberts - UI/UX Designer & Frontend Engineer
+==================================================
+Contact: julia.roberts@designcode.io | (555) 026-7788 | Los Angeles, CA
+
+SUMMARY:
+UI/UX Design Engineer with 5 years experience creating accessible, visually stunning design systems and implementing them in React, CSS3, and Tailwind CSS.
+
+SKILLS & TOOLS:
+- Design: Figma, Adobe XD, Wireframing, Prototyping, User Research, Design Systems
+- Frontend Code: HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS, Storybook
+- Accessibility: WCAG 2.1 AA Compliance, Screen Reader Optimization
+
+EXPERIENCE:
+Lead UX Engineer | Creative Canvas Studio (2021 - Present)
+- Built comprehensive enterprise design system in Figma and implemented it in React & Storybook.
+- Conducted user testing sessions with 50+ participants to improve onboarding workflow.
+
+UI Designer | WebCraft Agency (2019 - 2021)
+- Designed modern web and mobile UI layouts for fintech and healthcare clients.
+
+EDUCATION:
+B.F.A. in Interaction Design - Rhode Island School of Design (RISD)

@@ -1,0 +1,22 @@
+Diana Prince - Principal Backend Engineer
+==================================================
+Contact: diana.prince@backendlabs.org | (555) 013-7711 | New York, NY
+
+SUMMARY:
+Principal Backend Engineer with 9 years experience architecting high-throughput distributed systems in Java, Go, C#, and PostgreSQL.
+
+SKILLS:
+- Primary Languages: Java, Go, SQL, C++, C#
+- Frameworks: Spring Boot, Quarkus, gRPC, Hibernate, Microservices
+- Data Stores: PostgreSQL, Redis, Apache Cassandra, Kafka
+
+EXPERIENCE:
+Principal Engineer | Enterprise Cloud Systems (2020 - Present)
+- Migrated legacy monolithic architecture to Java Spring Boot microservices handling 50k req/sec with <20ms latency.
+- Designed event-driven data ingestion pipeline using Apache Kafka and Go.
+
+Senior Java Developer | Banking Solutions Corp (2015 - 2020)
+- Engineered financial transaction processing systems compliant with PCI-DSS standards.
+
+EDUCATION:
+B.S. in Computer Science - Carnegie Mellon University

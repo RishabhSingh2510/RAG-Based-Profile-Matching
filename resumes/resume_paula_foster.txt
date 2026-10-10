@@ -1,0 +1,23 @@
+Paula Foster - Senior Database Administrator & SQL Engineer
+==================================================
+Contact: paula.foster@dbexperts.com | (555) 032-4455 | Dallas, TX
+
+SUMMARY:
+Senior Database Administrator with 8 years experience managing high-availability PostgreSQL, MySQL, Redis, and Cassandra database clusters, query optimization, and disaster recovery.
+
+TECHNICAL SKILLS:
+- Relational DBs: PostgreSQL, MySQL, Oracle DB, SQL Server
+- NoSQL & Caching: Redis, Apache Cassandra, MongoDB
+- Optimization: SQL Query Tuning, Indexing Strategies, Execution Plan Analysis, PgBouncer
+- Administration: Database Replication, Backup/Recovery, Vacuuming, Patches
+
+WORK EXPERIENCE:
+Lead DBA | Enterprise Data Systems (2019 - Present)
+- Managed 50+ PostgreSQL production databases supporting high-traffic payment processing.
+- Optimized slow SQL queries, achieving a 70% decrease in database CPU utilization.
+
+Database Analyst | Financial Data Corp (2016 - 2019)
+- Executed automated database backup and point-in-time recovery testing scripts.
+
+EDUCATION:
+B.S. in Information Technology - University of North Texas

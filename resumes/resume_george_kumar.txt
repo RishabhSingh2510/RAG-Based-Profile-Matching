@@ -1,0 +1,22 @@
+George Kumar - Senior Mobile Application Developer
+==================================================
+Contact: george.kumar@mobiledev.org | (555) 023-4455 | San Jose, CA
+
+SUMMARY:
+Mobile Developer with 6 years experience crafting iOS and Android applications using Flutter, React Native, Swift, and Kotlin.
+
+TECHNICAL SKILLS:
+- Mobile Frameworks: Flutter, React Native, iOS SDK, Android SDK
+- Languages: Dart, Swift, Kotlin, JavaScript, TypeScript
+- Tools & Services: Firebase, REST APIs, GraphQL, App Store Connect, Google Play Console
+
+WORK EXPERIENCE:
+Lead Mobile Developer | AppSphere Technologies (2021 - Present)
+- Launched cross-platform Flutter app achieving 1M+ downloads across iOS and Android.
+- Integrated offline state synchronization and push notification pipelines.
+
+iOS Developer | NextGen Apps (2018 - 2021)
+- Developed native iOS apps in Swift using SwiftUI and Combine framework.
+
+EDUCATION:
+B.S. in Computer Science - San Jose State University

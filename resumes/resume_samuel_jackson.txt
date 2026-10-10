@@ -1,0 +1,23 @@
+Samuel Jackson - Enterprise Solutions Architect
+==================================================
+Contact: samuel.jackson@enterprise-arch.com | (555) 035-7788 | Atlanta, GA
+
+SUMMARY:
+Enterprise Solutions Architect with 12+ years experience advising Fortune 500 companies on cloud modernization, microservice transition, enterprise governance, and TOGAF architecture patterns.
+
+KEY SKILLS:
+- Architecture Frameworks: TOGAF, Domain-Driven Design (DDD), Microservices Architecture, Event-Driven Systems
+- Cloud & Platforms: AWS, Azure, Google Cloud Platform, VMware, Salesforce Integrations
+- Leadership: Enterprise Strategy, Executive Stakeholder Alignment, Tech Stack Rationalization
+
+WORK EXPERIENCE:
+Principal Solutions Architect | Global Enterprise Consulting (2018 - Present)
+- Led legacy-to-cloud digital transformation for a $2B financial institution, reducing IT infrastructure cost by 30%.
+- Authored cloud architecture blueprints for multi-tenant microservices on AWS.
+
+Chief Architect | TechCorp Global (2012 - 2018)
+- Governed technical strategy and architecture standards across 500+ software developers.
+
+EDUCATION:
+M.S. in Software Engineering - Georgia Tech
+Certifications: TOGAF 9 Certified Architect | AWS Certified Solutions Architect Professional

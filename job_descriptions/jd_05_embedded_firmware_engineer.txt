@@ -1,0 +1,24 @@
+Title: Embedded Systems & Firmware Specialist
+Location: San Jose, CA (Onsite)
+Experience: 3+ years of experience
+
+Job Summary:
+Seeking an Embedded Systems Engineer to write real-time micro-controller firmware and low-level peripheral drivers for next-gen IoT hardware nodes.
+
+Required Skills:
+- C++
+- C
+- FreeRTOS
+- Embedded Linux
+- STM32
+
+Preferred Skills:
+- CAN bus
+- I2C
+- Python
+- UART
+
+Key Responsibilities:
+- Develop deterministic C/C++ firmware on STM32 microcontrollers using FreeRTOS kernels.
+- Write device drivers for SPI, I2C, and UART sensor interfaces.
+- Perform hardware debugging using oscilloscopes, logic analyzers, and GDB.

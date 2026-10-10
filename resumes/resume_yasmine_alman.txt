@@ -1,0 +1,22 @@
+Yasmine Alman - Data Governance & Analytics Manager
+==================================================
+Contact: yasmine.alman@datagov.org | (555) 041-4466 | Chicago, IL
+
+SUMMARY:
+Data Governance Manager with 7 years experience establishing enterprise data lineage, cataloging (Collibra, Alation), GDPR/CCPA data privacy compliance, and SQL analytics governance.
+
+TECHNICAL SKILLS:
+- Data Governance: Collibra, Alation, Data Lineage, Metadata Management, Master Data Management (MDM)
+- Compliance & Privacy: GDPR, CCPA, HIPAA Data Auditing
+- Data & Analytics: SQL, Snowflake, Tableau, PowerBI, Python
+
+WORK EXPERIENCE:
+Data Governance Manager | Enterprise Global Data (2020 - Present)
+- Implemented enterprise data catalog in Collibra covering 10,000+ data assets across Snowflake.
+- Established GDPR data retention and deletion pipelines reducing compliance risk exposure.
+
+Senior Data Analyst | Retail Insights (2017 - 2020)
+- Designed executive BI dashboards in Tableau and managed master data dictionary.
+
+EDUCATION:
+M.S. in Information Management - Northwestern University

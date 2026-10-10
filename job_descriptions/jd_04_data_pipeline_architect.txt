@@ -1,0 +1,24 @@
+Title: Senior Data Engineer & Pipeline Architect
+Location: Chicago, IL (Hybrid)
+Experience: 5+ years of experience
+
+Job Summary:
+Join our analytics core team to construct scalable big data ETL pipelines and high-performance cloud data warehouses.
+
+Required Skills:
+- PySpark
+- Snowflake
+- Apache Airflow
+- Python
+- SQL
+
+Preferred Skills:
+- dbt
+- Databricks
+- Kafka
+- Scala
+
+Key Responsibilities:
+- Build PySpark data processing workflows ingesting terabytes of raw unstructured event data.
+- Orchestrate data DAGs using Apache Airflow for automated loading into Snowflake data warehouses.
+- Optimize SQL queries, data partitioning, and dbt models for high-speed business intelligence queries.

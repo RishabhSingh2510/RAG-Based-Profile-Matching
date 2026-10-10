@@ -1,0 +1,24 @@
+Title: Senior Cloud DevOps & Infrastructure Architect
+Location: Austin, TX (Onsite)
+Experience: 6+ years of experience
+
+Job Summary:
+We require a Senior DevOps Architect to automate multi-cloud infrastructure provisioning, manage container orchestration platforms, and enforce CI/CD pipeline security.
+
+Required Skills:
+- AWS
+- Kubernetes
+- Terraform
+- Docker
+- CI/CD
+
+Preferred Skills:
+- Ansible
+- Python
+- Go
+- GCP
+
+Key Responsibilities:
+- Provision modular AWS and GCP cloud infrastructure using Terraform and Ansible.
+- Manage enterprise Kubernetes (EKS) clusters, Helm releases, and GitOps deployments with ArgoCD.
+- Build automated GitHub Actions and Jenkins CI/CD pipelines with zero-downtime deployment strategies.

@@ -1,0 +1,21 @@
+Beatrix Kiddo - Linux Kernel & Low-Level Systems Programmer
+==================================================
+Contact: beatrix.kiddo@kernel-dev.org | (555) 062-7788 | Seattle, WA
+
+SUMMARY:
+Low-level Systems Engineer with 7 years experience developing Linux kernel modules, eBPF network tracing tools, device drivers, and system call optimizations in C and Assembly.
+
+TECHNICAL SKILLS:
+- Systems Programming: C, Assembly (x86_64, ARM64), C++, Python, Bash
+- Kernel & Low-Level: Linux Kernel Internals, eBPF, Device Drivers, GDB, Valgrind, perf, QEMU
+
+WORK EXPERIENCE:
+Principal Systems Engineer | OS Tech Labs (2020 - Present)
+- Developed custom eBPF kernel network filters reducing packet processing latency by 35%.
+- Authored upstream patches for Linux kernel network subsystem.
+
+Systems Developer | Hardware Core Inc (2017 - 2020)
+- Wrote PCIe device drivers in C for high-speed hardware accelerators.
+
+EDUCATION:
+B.S. in Computer Engineering - University of Washington

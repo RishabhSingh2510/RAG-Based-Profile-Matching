@@ -1,0 +1,23 @@
+Marcus Vance - Principal Site Reliability Engineer (SRE)
+==================================================
+Contact: marcus.vance@srecloud.net | (555) 029-1122 | Denver, CO
+
+SUMMARY:
+Site Reliability Engineer with 8 years experience optimizing system availability, building telemetry monitoring dashboards (Prometheus & Grafana), and running Chaos Engineering experiments.
+
+TECHNICAL SKILLS:
+- Monitoring & Observability: Prometheus, Grafana, Datadog, OpenTelemetry, ELK Stack
+- Cloud & Orchestration: Kubernetes, Docker, AWS, GCP, Terraform
+- Scripting & Automation: Go, Python, Bash, Ansible
+- SRE Practices: SLO/SLA Management, Incident Response, Post-mortems, Chaos Engineering
+
+WORK EXPERIENCE:
+Principal SRE | Reliability Cloud (2020 - Present)
+- Maintained 99.99% system availability across multi-region Kubernetes clusters.
+- Configured OpenTelemetry tracing and Prometheus alerting rules for 100+ microservices.
+
+SRE Engineer | ScaleUp Systems (2016 - 2020)
+- Automated incident management triage workflows in Go and Python.
+
+EDUCATION:
+B.S. in Computer Science - University of Colorado Boulder

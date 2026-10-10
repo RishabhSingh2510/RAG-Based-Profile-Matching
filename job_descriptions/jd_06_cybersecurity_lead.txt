@@ -1,0 +1,24 @@
+Title: Lead Cybersecurity & Incident Response Engineer
+Location: Washington, DC (Hybrid)
+Experience: 5+ years of experience
+
+Job Summary:
+We need a Lead Security Engineer to oversee penetration testing, threat detection monitoring, SIEM log analysis, and incident response operations.
+
+Required Skills:
+- Penetration Testing
+- Python
+- Network Security
+- Splunk
+- SIEM
+
+Preferred Skills:
+- CISSP
+- Wireshark
+- Burp Suite
+- Nmap
+
+Key Responsibilities:
+- Execute penetration testing across web applications, API endpoints, and internal network infrastructure.
+- Monitor SIEM telemetry feeds using Splunk to detect and mitigate malicious activity.
+- Automate security auditing and vulnerability scanning using custom Python scripts.

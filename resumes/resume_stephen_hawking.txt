@@ -1,0 +1,21 @@
+Stephen Hawking - HPC & Algorithmic Performance Engineer
+==================================================
+Contact: stephen.hawking@hpc-labs.org | (555) 053-7788 | Princeton, NJ
+
+SUMMARY:
+HPC Specialist with 7 years experience designing parallel computing algorithms, GPU acceleration (CUDA), MPI, and OpenMP in C++ and Python for massive scientific simulations.
+
+TECHNICAL SKILLS:
+- HPC & Parallelism: CUDA, OpenMP, MPI, C++, C, Python, Vectorization (AVX-512)
+- Frameworks & Profiling: PyTorch, Nsight Systems, Valgrind, GDB, CMake, Git
+
+WORK EXPERIENCE:
+Lead HPC Architect | Supercomputing Center (2020 - Present)
+- Optimized parallel matrix multiplication algorithms using CUDA on NVIDIA H100 GPUs, achieving 8x speedup.
+- Scaled fluid dynamics simulations across 1,000+ compute nodes using MPI.
+
+Performance Engineer | QuantumSim Inc (2017 - 2020)
+- Profiling C++ core libraries to eliminate cache misses and memory allocation bottlenecks.
+
+EDUCATION:
+Ph.D. in Applied Physics - Princeton University
